@@ -3,7 +3,7 @@
 
 An Apache CXF / Angular 2 based Web UI for Neural Enhance. (https://github.com/alexjc/neural-enhance)
 
-This project contains the source files for the server part and the pre-compiled client part.
+This project contains the source files for the server part and the pre-compiled client part. Neural Enhance needs to be installed beforehand.
 
 ### Version Matrix
 CXF Version:  3.1.3
